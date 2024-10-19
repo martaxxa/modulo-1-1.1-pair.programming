@@ -1,0 +1,27 @@
+.fondo-pagina {
+    background-color: #f3f4f5;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+
+p , li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #757575
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: #757575
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #757575
+}
