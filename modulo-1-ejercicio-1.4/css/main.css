@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0%;
+} 
+
+.menu_list {
+    list-style-type: none;
+    display: flex;
+}
+
+.menu_link {
+    margin: 8px;
+
+} 
+
+.photo-container {
+    position: relative;
+    display: flex;
+}
+
+.picture {
+    width: 30%;
+    display: block;
+    margin: auto;
+    height: auto;
+}
